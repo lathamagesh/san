@@ -1,10 +1,10 @@
 # code commented by jagadishmagesh1999@gmail.com
 {
-    'name': 'san',
+    'name': 'check',
     'version': '1.2',
     'sequence': 1,
-    'summary': 'ODOO demo',
-    'description': """ ODOO demo""",
+    'summary': 'ODOO check',
+    'description': """ ODOO check""",
     'category': 'Stock',
     'author': 'no',
     'website': '',
