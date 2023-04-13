@@ -1,6 +1,6 @@
 # code commented by jagadishmagesh1999@gmail.com
 {
-    'name': 'check',
+    'name': '13april',
     'version': '1.2',
     'sequence': 1,
     'summary': 'ODOO check',
